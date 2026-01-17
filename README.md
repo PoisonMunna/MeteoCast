@@ -42,7 +42,7 @@ The app fetches live weather data including **Temperature**, **Humidity**, **Win
 
 ## 🚀 Live Demo
 
-👉 **[View Live Demo](https://PoisonMunna.github.io/MeteoCast-WeatherForecast)**  
+👉 **[View Live Demo](https://PoisonMunna.github.io/MeteoCast)**  
 
 ---
 
